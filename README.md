@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-This website is very confusing
+
+
+Introduction to Tools of the Trade
